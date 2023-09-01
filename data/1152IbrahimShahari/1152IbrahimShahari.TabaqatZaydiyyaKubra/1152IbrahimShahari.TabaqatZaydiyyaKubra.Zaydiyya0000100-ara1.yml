@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/TabaqatAlzaidia3in1
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The information in the metadata and the editor's introduction
-    says that the digital version is the same edition as the PDF; however, page
-    numbers are completely different. So, it might be a different edition or a
-    reprint.
+        says that the digital version is the same edition as the PDF; however, page
+        numbers are completely different. So, it might be a different edition or a
+        reprint.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2022-02-13
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
