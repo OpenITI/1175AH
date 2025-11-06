@@ -1,7 +1,7 @@
 00#AUTH#URI######: 1160YusufMahalli
 10#AUTH#ISM####AR: Yūsuf
-10#AUTH#KUNYA##AR:
-10#AUTH#LAQAB##AR:
+10#AUTH#KUNYA##AR: 
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. Yūsuf
 10#AUTH#NISBA##AR: al-Maḥallī, al-Šāfiʿī, al-Ašʿarī, al-Kalārjī
 10#AUTH#SHUHRA#AR: Yūsuf al-Maḥallī
@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 11XX-XX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: http://www.worldcat.org/oclc/10294982,
     http://www.filaha.org/almanac_yusuf_al_mahalli.html
 90#AUTH#COMMENT##: "The author Yūsuf ibn Yūsuf al-Maḥallī, as noted by
